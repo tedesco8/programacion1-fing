@@ -1,4 +1,4 @@
-program HolaMundo;
+program Ej7;
     var
         option1, option2, option3, option5, option7: integer;
         option4, option6, option8: real;

@@ -1,0 +1,3 @@
+Compilar un archivo: fpc -Co -Cr -Miso -gl hola.pas
+Ejecutar un archivo: ./hola
+Comentarios: {hjggig}
