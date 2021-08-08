@@ -7,4 +7,7 @@ get(f)
 //asignar dinamicamente memoria a una variable del tipo al que apunta p y asignar a p la direccion de esta direccion de memoria.
 new(p)
 
+//read es un procedimiento estándar que lee un dato de la entrada y lo almacena en una variable.
+read(x) 
+
 //TODO: pagina 585 para completar procedimientos
