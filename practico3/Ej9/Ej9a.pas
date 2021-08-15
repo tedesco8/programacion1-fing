@@ -10,7 +10,7 @@ Suponga que todas las variables son de tipo integer.
        IF (k = 2) OR (k = 3) OR (k = 4) THEN
           t := t + 2
 *)
-PROGRAM Ej9 (output);
+PROGRAM Ej9a (output);
 VAR k, r, s, t : Integer;
 BEGIN
     r := 1;
